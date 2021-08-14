@@ -20,12 +20,12 @@
 
 ## 📖 &nbsp; Reading list
 
-- [Scaling with common sense #2: Being future ready.](https://medium.com/locus-iq/how-we-wrote-a-pipeline-abstraction-module-with-one-line-of-code-9d7580d20337)
-- [A Large-Scale Benchmark for Instance-Level Recognition and Retrieval](https://arxiv.org/abs/2004.01804)
-- [Vision Transformer with Progressive Sampling](https://arxiv.org/abs/2108.01684)
-- [Open-Ended Learning](https://storage.googleapis.com/deepmind-media/papers/Open-Ended%20Learning%20Leads%20to%20Generally%20Capable%20Agents/open-ended-learning-paper.pdf)
-- [Solving Mixed Integer Programs Using Neural Networks](https://arxiv.org/abs/2012.13349)
-- [The Emperor's New Mind](https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind)
+- [ ] [Scaling with common sense #2: Being future ready.](https://medium.com/locus-iq/how-we-wrote-a-pipeline-abstraction-module-with-one-line-of-code-9d7580d20337)
+- [ ] [A Large-Scale Benchmark for Instance-Level Recognition and Retrieval](https://arxiv.org/abs/2004.01804)
+- [ ] [Vision Transformer with Progressive Sampling](https://arxiv.org/abs/2108.01684)
+- [ ] [Open-Ended Learning](https://storage.googleapis.com/deepmind-media/papers/Open-Ended%20Learning%20Leads%20to%20Generally%20Capable%20Agents/open-ended-learning-paper.pdf)
+- [ ] [Solving Mixed Integer Programs Using Neural Networks](https://arxiv.org/abs/2012.13349)
+- [ ] [The Emperor's New Mind](https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind)
 
 
 ## 🔧 Technologies & Tools
