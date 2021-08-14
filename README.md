@@ -11,7 +11,7 @@
 🎓 &nbsp;I'm a graduate from [NIT Allahabad](http://www.mnnit.ac.in/). A proud Moti ka lal :D \
 🛠 &nbsp;I'm currently building [NodeIQ](https://locus.sh/products/nodeiq) at [Locus.sh](https://locus.sh). I have previously worked for [Practo](http://practo.com/). \
 🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
-🌱 &nbsp;The space is where we are headed and that excites me.\
+🌱 &nbsp;The space is where we are headed and that just might save us from impending doom.\
 ✉️ &nbsp;You can email me at tanmaykacker40@gmail.com.
 
 ## &#x270d; Latest posts
@@ -26,6 +26,7 @@
 - [ ] [Open-Ended Learning](https://storage.googleapis.com/deepmind-media/papers/Open-Ended%20Learning%20Leads%20to%20Generally%20Capable%20Agents/open-ended-learning-paper.pdf)
 - [ ] [Solving Mixed Integer Programs Using Neural Networks](https://arxiv.org/abs/2012.13349)
 - [ ] [The Emperor's New Mind](https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind)
+- [ ] [On Intelligence](https://www.goodreads.com/book/show/27539.On_Intelligence)
 
 
 ## 🔧 Technologies & Tools
