@@ -8,7 +8,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a Computer Science Engineer who has spent 5+ years building scalable distributed systems and optimisation engines.\
-🎓 &nbsp;I'm a graduate from [NIT Allahabad](http://www.mnnit.ac.in/). A proud Moti ka lal :D \
+🎓 &nbsp;I'm a graduate of [NIT Allahabad](http://www.mnnit.ac.in/). A proud Moti ka lal :D \
 🛠 &nbsp;I'm currently building [NodeIQ](https://locus.sh/products/nodeiq) at [Locus.sh](https://locus.sh). I have previously worked for [Practo](http://practo.com/). \
 🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
 🌱 &nbsp;The space is where we are headed and that just might save us from impending doom.\
