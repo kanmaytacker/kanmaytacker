@@ -11,7 +11,7 @@
 🎓 &nbsp;I'm an alumnus of [NIT Allahabad](http://www.mnnit.ac.in/). A proud Moti ka lal :D \
 🛠 &nbsp;I'm currently building [NodeIQ](https://locus.sh/products/nodeiq) at [Locus.sh](https://locus.sh). I have previously worked for [Practo](http://practo.com/). \
 🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
-🌱 &nbsp;The space is where we are headed and that just might save us from impending doom.\
+🌱 &nbsp;The space is where we are headed, and that just might save us from impending doom.\
 ✉️ &nbsp;You can email me at tanmaykacker40@gmail.com.
 
 ## &#x270d; Latest posts
