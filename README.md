@@ -7,20 +7,25 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a Computer Science Engineer who has spent 5+ years building scalable distributed systems and optimisation engines.\
+💡 &nbsp;I'm a Computer Science and ML Engineer who has spent 5+ years building scalable distributed systems and optimisation engines.\
 🎓 &nbsp;I'm an alumnus of [NIT Allahabad](http://www.mnnit.ac.in/). A proud Moti ka lal :D \
-🛠 &nbsp;I'm currently building [NodeIQ](https://locus.sh/products/nodeiq) at [Locus.sh](https://locus.sh). I have previously worked for [Practo](http://practo.com/). \
+🎓 &nbsp;I'm currently a postgraduate student studying Artificial Intelligence at the [School of Aerospace at Cranfield University](https://dspace.lib.cranfield.ac.uk/handle/1826/8736). \
+🛠 &nbsp;My last work project was building [NodeIQ](https://locus.sh/products/nodeiq) at [Locus.sh](https://locus.sh). I have previously worked for [Practo](http://practo.com/). \
 🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
 🌱 &nbsp;The space is where we are headed, and that just might save us from impending doom.\
 ✉️ &nbsp;You can email me at tanmaykacker40@gmail.com.
 
+## 🔧 Latest work
+- [Using sensor measurements to predicture engine failures](https://github.com/kanmaytacker/predictive-maintenance)
+- [Macroscopic and mesoscopic analysis of global air transport network](https://github.com/kanmaytacker/flight-network-analysis)
+
 ## &#x270d; Latest posts
 
-- [How I wrote a pipeline abstraction module with one line of code](https://zerodha.tech/blog/being-future-ready-with-common-sense/7)
+- [How I wrote a pipeline abstraction module with one line of code](https://medium.com/locus-iq/how-we-wrote-a-pipeline-abstraction-module-with-one-line-of-code-9d7580d20337)
 
 ## 📖 &nbsp; Reading list
 
-- [ ] [Scaling with common sense #2: Being future ready.](https://medium.com/locus-iq/how-we-wrote-a-pipeline-abstraction-module-with-one-line-of-code-9d7580d20337)
+- [ ] [Scaling with common sense #2: Being future ready.](https://zerodha.tech/blog/being-future-ready-with-common-sense/7)
 - [ ] [A Large-Scale Benchmark for Instance-Level Recognition and Retrieval](https://arxiv.org/abs/2004.01804)
 - [ ] [Vision Transformer with Progressive Sampling](https://arxiv.org/abs/2108.01684)
 - [ ] [Open-Ended Learning](https://storage.googleapis.com/deepmind-media/papers/Open-Ended%20Learning%20Leads%20to%20Generally%20Capable%20Agents/open-ended-learning-paper.pdf)
