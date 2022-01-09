@@ -16,7 +16,7 @@
 ✉️ &nbsp;You can email me at tanmaykacker40@gmail.com.
 
 ## 🔧 Latest work
-- [Using sensor measurements to predicture engine failures](https://github.com/kanmaytacker/predictive-maintenance)
+- [Using sensor measurements to predict engine failures](https://github.com/kanmaytacker/predictive-maintenance)
 - [Macroscopic and mesoscopic analysis of global air transport network](https://github.com/kanmaytacker/flight-network-analysis)
 
 ## &#x270d; Latest posts
