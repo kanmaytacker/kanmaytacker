@@ -25,11 +25,12 @@
 
 ## 📖 &nbsp; Reading list
 
-- [ ] [Scaling with common sense #2: Being future ready.](https://zerodha.tech/blog/being-future-ready-with-common-sense/7)
-- [ ] [A Large-Scale Benchmark for Instance-Level Recognition and Retrieval](https://arxiv.org/abs/2004.01804)
-- [ ] [Vision Transformer with Progressive Sampling](https://arxiv.org/abs/2108.01684)
-- [ ] [Open-Ended Learning](https://storage.googleapis.com/deepmind-media/papers/Open-Ended%20Learning%20Leads%20to%20Generally%20Capable%20Agents/open-ended-learning-paper.pdf)
-- [ ] [Solving Mixed Integer Programs Using Neural Networks](https://arxiv.org/abs/2012.13349)
+- [ ] [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+- [ ] [The Fusion of Unmatched Infrared and Visible Images Based on Generative Adversarial Networks](https://downloads.hindawi.com/journals/mpe/2020/3739040.pdf)
+- [ ] [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v3.pdf)
+- [ ] [FIRe-GAN: A novel Deep Learning-based infrared-visible fusion method for wildfire imagery
+](https://link.springer.com/content/pdf/10.1007/s00521-021-06691-3.pdf)
+- [ ] [FusionGAN: A generative adversarial network for infrared and visible image fusion](https://reader.elsevier.com/reader/sd/pii/S1566253518301143?token=EB8200A47C24B58AFC732FAF25BFC1B82104FCC64549251A5FEEC46A9CEB501205B54576B99E9A19208F9A17A305D355&originRegion=eu-west-1&originCreation=20220718112048)
 - [ ] [The Emperor's New Mind](https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind)
 - [ ] [On Intelligence](https://www.goodreads.com/book/show/27539.On_Intelligence)
 
