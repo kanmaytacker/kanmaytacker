@@ -15,6 +15,9 @@
 🌱 &nbsp;The space is where we are headed, and that just might save us from impending doom.\
 ✉️ &nbsp;You can email me at tanmaykacker40@gmail.com.
 
+## 📚 Latest publications
+- [Multi-Spectral Fusion using Generative Adversarial Networks for UAV Detection of Wild Fires](https://ieeexplore.ieee.org/document/10067042)
+
 ## 🔧 Latest work
 - [Using sensor measurements to predict engine failures](https://github.com/kanmaytacker/predictive-maintenance)
 - [Macroscopic and mesoscopic analysis of global air transport network](https://github.com/kanmaytacker/flight-network-analysis)
@@ -25,12 +28,6 @@
 
 ## 📖 &nbsp; Reading list
 
-- [ ] [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
-- [ ] [The Fusion of Unmatched Infrared and Visible Images Based on Generative Adversarial Networks](https://downloads.hindawi.com/journals/mpe/2020/3739040.pdf)
-- [ ] [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v3.pdf)
-- [ ] [FIRe-GAN: A novel Deep Learning-based infrared-visible fusion method for wildfire imagery
-](https://link.springer.com/content/pdf/10.1007/s00521-021-06691-3.pdf)
-- [ ] [FusionGAN: A generative adversarial network for infrared and visible image fusion](https://reader.elsevier.com/reader/sd/pii/S1566253518301143?token=EB8200A47C24B58AFC732FAF25BFC1B82104FCC64549251A5FEEC46A9CEB501205B54576B99E9A19208F9A17A305D355&originRegion=eu-west-1&originCreation=20220718112048)
 - [ ] [The Emperor's New Mind](https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind)
 - [ ] [On Intelligence](https://www.goodreads.com/book/show/27539.On_Intelligence)
 
