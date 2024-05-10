@@ -7,13 +7,14 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a Computer Science and ML Engineer who has spent 5+ years building scalable distributed systems and optimisation engines.\
+💡 &nbsp;I'm a Computer Science and ML Engineer who has spent 8+ years building scalable distributed systems, optimisation engines and low latency financial systems. These days I just wrangle LLMs. 🤖 \
 🎓 &nbsp;I'm an alumnus of [NIT Allahabad](http://www.mnnit.ac.in/). A proud Moti ka lal :D \
-🎓 &nbsp;I'm currently a postgraduate student studying Artificial Intelligence at the [School of Aerospace at Cranfield University](https://dspace.lib.cranfield.ac.uk/handle/1826/8736). \
+🎓 &nbsp;My most recent academic misadventure was as postgraduate student studying Artificial Intelligence at the [School of Aerospace at Cranfield University](https://dspace.lib.cranfield.ac.uk/handle/1826/8736). \
 🛠 &nbsp;My last work project was building [NodeIQ](https://locus.sh/products/nodeiq) at [Locus.sh](https://locus.sh). I have previously worked for [Practo](http://practo.com/). \
 🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
 🌱 &nbsp;The space is where we are headed, and that just might save us from impending doom.\
-✉️ &nbsp;You can email me at tanmaykacker40@gmail.com.
+✉️ &nbsp;If you need a consultation on your project, you can reach me at t@allfather.site. \
+✉️ &nbsp;If you want to say Hi, you can email me at tanmaykacker40@gmail.com.
 
 ## 📚 Latest publications
 - [Multi-Spectral Fusion using Generative Adversarial Networks for UAV Detection of Wild Fires](https://ieeexplore.ieee.org/document/10067042)
@@ -49,9 +50,8 @@
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 
 ## 📫 &nbsp; How to reach me:
-
-<a href="https://www.linkedin.com/in/bluetraincoltrane/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:t@allfather.site"><img alt="Work" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="mailto:tanmaykacker40@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-### If you like what I do
+## If you like what I do
 <a href="https://www.buymeacoffee.com/kanmaytacker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me Chai" width="150" ></a>
