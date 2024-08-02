@@ -9,7 +9,7 @@
 
 💡 &nbsp;I'm a Computer Science and ML Engineer who has spent 8+ years building scalable distributed systems, optimisation engines and low latency financial systems. These days I just wrangle LLMs. 🤖 \
 🎓 &nbsp;I'm an alumnus of [NIT Allahabad](http://www.mnnit.ac.in/). A proud Moti ka lal :D \
-🎓 &nbsp;My most recent academic misadventure was as postgraduate student studying Artificial Intelligence at the [School of Aerospace at Cranfield University](https://dspace.lib.cranfield.ac.uk/handle/1826/8736). \
+🎓 &nbsp;My most recent academic misadventure was as a postgraduate student studying Artificial Intelligence at the [School of Aerospace at Cranfield University](https://dspace.lib.cranfield.ac.uk/handle/1826/8736). \
 🛠 &nbsp;My last work project was building [NodeIQ](https://locus.sh/products/nodeiq) at [Locus.sh](https://locus.sh). I have previously worked for [Practo](http://practo.com/). \
 🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
 🌱 &nbsp;The space is where we are headed, and that just might save us from impending doom.\
